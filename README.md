@@ -1,7 +1,7 @@
 
 The first section of The project will examine the financial posture and financial news of the top five banks of Canada, such as TD, RBC, CIBC, BMO and Scotiabank.
 The financial posture will dive deeper into examining the economic health, profitability and volatility by measuring each of stock's performance agaisnt the Taylor's rule by using a beta of 1 and analyzing its financial ratios, such as profit, earnings per share, price per earnings, and debt to equity. 
-A reoccuring neural network (ANN), Long-Short Term Network (LSTM), and TimeGPT forecast model will be implemented on the sequential time series data.
+A reoccuring neural network (ANN), Long-Short Term Network (LSTM), and TimeGPT forecast models will be implemented on the sequential time series data.
 TimeGPT models will analyze the forecast of the 'Close Prices' of the top five banks in Canada.
 Other variations of LSTM which will be be examined and implemented in the project design are Artificial Rabbits Optimization (ARO)-LSTM,
 particle Swarm Optimization (PSO)-LSTM, Kolmogorov-Arnold Network (KAN)-LSTM, and  evolutionary bidirectional (EBI)-LSTM.
